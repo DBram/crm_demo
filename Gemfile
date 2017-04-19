@@ -21,6 +21,7 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 gem 'activeadmin', github: 'activeadmin'
+gem 'devise', '~> 4.2'
 gem 'inherited_resources', '~> 1.7'
 
 # bundle exec rake doc:rails generates the API under doc/api.
