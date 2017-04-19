@@ -23,6 +23,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'activeadmin', github: 'activeadmin'
 gem 'devise', '~> 4.2'
 gem 'inherited_resources', '~> 1.7'
+gem 'carrierwave', '~> 1.0'
 
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
